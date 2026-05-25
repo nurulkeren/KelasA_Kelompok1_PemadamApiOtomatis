@@ -1,6 +1,7 @@
 # Kelompok Kitabisa
 
 ## Identitas Kelompok
+Kelas: A
 Nama Kelompok: Kitabisa
 
 ## Anggota Kelompok
@@ -12,3 +13,6 @@ Nama Kelompok: Kitabisa
 5. Windi Sulaiman Ismansa — H1H024005  
 6. Bahtiar Rizqi Efendy — H1H024006  
 7. Nayla Zazki Kirani — H1H024007
+
+## Topik Proyek
+SISTEM PEMADAM OTOMATIS MENGGUNAKAN SENSOR CAHAYA
