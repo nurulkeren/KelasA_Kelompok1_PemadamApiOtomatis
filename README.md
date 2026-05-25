@@ -1,7 +1,7 @@
 # Kelompok Kitabisa
 
 ## Identitas Kelompok
-Kelas: A
+Kelas: A<br>
 Nama Kelompok: Kitabisa
 
 ## Anggota Kelompok
