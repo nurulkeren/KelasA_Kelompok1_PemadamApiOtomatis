@@ -15,7 +15,7 @@ Nama Kelompok: Kitabisa
 7. Nayla Zazki Kirani — H1H024007
 
 ## Topik Proyek
-SISTEM PEMADAM OTOMATIS MENGGUNAKAN SENSOR CAHAYA
+SISTEM PEMADAM OTOMATIS MENGGUNAKAN SENSOR API
 
 ### Penjelasan Progress Source Code Terbaru
 
